@@ -7,4 +7,4 @@
   In march I created a digital clock that collects the current time so I used that code and implemented IST
 to convert it from my current timezone to MST. 
   Later I will add more features, but for now I needed it so I created it!</p> 
-  </body>
+  <p> I used python and tkinter for the GUI</p>
